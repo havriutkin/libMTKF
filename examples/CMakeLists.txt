@@ -1,0 +1,2 @@
+add_executable(example_simple simple_example.cpp)
+target_link_libraries(example_simple PRIVATE libmtkf)
